@@ -1,0 +1,42 @@
+.fotter {
+    width: 100%;
+    object-fit: contain;
+    height: 26rem;
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    float: left;
+    /* color: #4e342e; */
+}
+
+.fotter__contents {
+    margin-left: 30px;
+    padding-top: 140px;
+    /* height: 190px; */
+}
+
+.fotter__title{
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+}
+
+.fotter__descripsion{
+    padding-top: 3.2rem;
+    font-size: 1rem;
+    max-width: 360px;
+    height: 80px;
+    text-align: center;
+}
+
+.fotter__buttons * {
+    cursor: pointer;
+    margin-left: 55px;
+    width: 50px;
+}
+
+.fotter__button:hover {
+    transition: all 0.2s;
+    filter: invert(0.8) sepia(1);
+}
+

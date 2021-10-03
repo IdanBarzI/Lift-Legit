@@ -1,0 +1,7 @@
+export {default as Navbar} from './NavBar/NavBar'
+export {default as Banner} from './Banner/Banner'
+export {default as Products} from './Products/Products'
+export {default as JwPlayerCommer} from './JwPlayer/JwPlayerCommer'
+export {default as Fotter} from './Fotter/Fotter'
+export {default as Cart} from './Cart/Cart'
+export {default as Checkout} from './CheckoutForm/Checkout/Checkout'
